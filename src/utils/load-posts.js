@@ -17,3 +17,5 @@ export const loadPosts = async () => {
   return photosAndPosts;
 
 };
+
+// colocar na ramificação
